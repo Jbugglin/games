@@ -1,0 +1,99 @@
+Game list:
+
+Pong
+
+Minefield
+
+Tic-tac-toe
+
+Memory Puzzle
+
+Simon
+
+Sliding Puzzle
+
+Duck Hunt
+
+Yahtzee
+
+Maze
+
+Typespeed
+
+Lunar Lander
+
+Nibbles
+
+Katamari Damacy
+
+Tron
+
+Asteroids
+
+Arkanoid
+
+Flood It
+
+Quoridor
+
+Space Invaders
+
+Scrabble
+
+Othello
+
+Quarto
+
+Fruit Ninja
+
+Tetris
+
+Minotaurus
+
+Connect Four
+
+Missile Command
+
+Abalone
+
+Sokoban
+
+Dr. Mario
+
+Kirby’s Avalanche / Puyo Puyo
+
+Checkers / Draughts
+
+Pipe Dream
+
+Blackjack
+
+Grid Lock / Traffic Jam
+
+Last Stand
+
+Bloxorz
+
+Bejeweled
+
+Zoop
+
+Rampart
+
+Mancala
+
+Snood / Bust-a-Move
+
+Scorched Earth / Worms / Gorillas / Angry Birds
+
+Stratego
+
+Risk
+
+Go
+
+Diner Dash
+
+Fire ‘N’ Ice
+
+Chess
